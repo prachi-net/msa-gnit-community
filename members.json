@@ -5,7 +5,22 @@
     "linkedin": "https://www.linkedin.com/in/gourav-chandra-5b0854274/",
     "year": "3rd Year",
     "description": "Backend Developer, passionate to learn how systems work at scale."
-  }
+  },
+  {
+    "name": "Tubhyam Jain",
+    "github": "https://github.com/tubhyam14",
+    "linkedin": "https://www.linkedin.com/in/ubhyam-jain-81242637a/",
+    "year": "1st Year",
+    "description": "Aspiring Software & Web Developer"
+  },
+
+  {
+    "name": "Riddhi Som",
+    "github": "https://github.com/VioletCoode",
+    "linkedin": "https://www.linkedin.com/in/riddhi-som-6b8243377/",
+    "year": "1st Year",
+    "description": "1st year student ,trying to find my interest,exploring every fields"
+  }, 
 
   ,{
     "name": "Ayush Singh",
@@ -15,4 +30,47 @@
     "description": "Lead at MSA, interested in Web Development and Machine Learning."
   }
 
+]
+{
+    "name": "Imon Dey",
+    "github": "https://github.com/Imondey",
+    "linkedin": "www.linkedin.com/in/imon-dey-4223502a8/",
+    "year": "3rd Year",
+    "description": "Tech enthusiast."
+  },
+  {
+    "name": "Subarna Maity",
+    "github": "https://github.com/Dronzer2code",
+    "linkedin": "https://www.linkedin.com/in/subarna-maity-3a662335b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+    "year": "2nd Year",
+    "description": "Android Developer, also passionate about web development and open source."
+  },
+  {
+    "name": "Sarit Bose",
+    "github": "https://github.com/saritbose",
+    "linkedin": "https://www.linkedin.com/in/sarit-bose/",
+    "year": "1st Year",
+    "description": "Trying to have fun while learning new things.s"
+  }, 
+  {
+    "name": "Shrawan Chakravartty",
+    "github": "https://github.com/ShrawanChakravartty",
+    "linkedin": "https://www.linkedin.com/in/shrawan-chakravartty-b2765437a",
+    "year": "1st Year",
+    "description": "Passionate about Game and App Develpoment" 
+  },
+  {
+    "name": "Saptarshi Ghosh",
+    "github": "https://github.com/saphosh55-lab",
+    "linkedin": "https://www.linkedin.com/in/saptarshi-ghosh-217566382",
+    "year": "1st Year",
+    "description": "Passionate about new techs"
+  },
+  {
+    "name": "Shirsha Singha",
+    "github": "https://github.com/iamshirsha583-stack",
+    "linkedin": "https://www.linkedin.com/in/shirsha-singha-048013365",
+    "year": "1st Year",
+    "description": "Passionate about new techs"
+  }
 ]
